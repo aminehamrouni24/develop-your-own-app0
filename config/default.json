@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://amin1234:amin1234@cluster0.z6kvr.mongodb.net/db",
+    "jwtSecret": "secret",
+    "githubToken": "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"
+  }
+  
